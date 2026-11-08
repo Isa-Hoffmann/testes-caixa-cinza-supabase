@@ -1,0 +1,10 @@
+ANTES DE USAR
+1. No Postman, importe a Collection e o Environment da pasta postman.
+2. Selecione o Environment "Supabase - Testes de Autenticação".
+3. Preencha api_key com a Publishable key, email e password com os dados do usuário de teste.
+4. Salve as alterações localmente. Não publique valores privados no GitHub.
+5. Execute cada requisição separadamente e confira o status e o JSON.
+6. Preencha a planilha e o README apenas com resultados realmente observados.
+7. Antes de publicar prints, oculte access_token, chaves e dados privados.
+
+A coleção contém cinco requisições com testes automatizados básicos. Confira as respostas reais do serviço.
